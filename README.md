@@ -36,6 +36,14 @@ python sw.py
 搜索完毕，会打开文件夹，看到类似搜索的图片
 ![image](https://github.com/haimianxing/pic_search_pic/assets/64762650/4a6a804c-0e7f-4e17-a9f9-66cc094e22f3)
 
+-------------------------
+## 运行示例
+![image](https://github.com/haimianxing/pic_search_pic/assets/64762650/b3748e04-ce52-4eaf-8600-df40935a6895)
+
+![image](https://github.com/haimianxing/pic_search_pic/assets/64762650/4ee69a6e-e908-4d0a-a96e-fec621d4d86d)
+
+![image](https://github.com/haimianxing/pic_search_pic/assets/64762650/4580bf73-f7fc-4a40-8567-96419ff2a658)
+
 
 -------------------------
 # pic_search_pic
